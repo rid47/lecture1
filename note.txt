@@ -1,0 +1,17 @@
+(1) a,b : multiple element. e.g. h1,h2{}
+(2) a b: all Descendant selectior : ol li
+(3) a > b: Immediate Child Selector not grand child: ol>li
+(4) a + b: Adjacent sibling selector??
+(5) [a= b]: Attribute selector; input [type = number']
+(6) a:b: Pseudoclass selector; botton:hover{}
+(7) a::b: Pseudoelement selector; p::selection {
+			color: red;
+			background-color: yellow;
+}
+
+Responsive design:
+
+viewport
+media query
+flexbox
+grid
